@@ -1,5 +1,5 @@
 {
-    "name": "wireui/breadcrumbs",
+    "name": "inspirapuntodo/breadcrumbs",
     "description": "Breadcrumbs component for Laravel, Livewire, TallStack",
     "type": "library",
     "license": "MIT",
