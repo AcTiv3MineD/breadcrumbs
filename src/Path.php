@@ -2,7 +2,7 @@
 
 namespace WireUi\Breadcrumbs;
 
-final readonly class Path
+final class Path
 {
     public function __construct(
         public string $label,
